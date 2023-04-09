@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/socialchef-clone-homepage/static/css/main.6a357f77.css",
+    "main.js": "/socialchef-clone-homepage/static/js/main.bc7e109b.js",
+    "static/js/787.28aa5760.chunk.js": "/socialchef-clone-homepage/static/js/787.28aa5760.chunk.js",
+    "static/media/intro.jpg": "/socialchef-clone-homepage/static/media/intro.b9ae941b67c186041324.jpg",
+    "service-worker.js": "/socialchef-clone-homepage/service-worker.js",
+    "static/media/body.jpg": "/socialchef-clone-homepage/static/media/body.6ddb331782e0980680f1.jpg",
+    "index.html": "/socialchef-clone-homepage/index.html",
+    "main.6a357f77.css.map": "/socialchef-clone-homepage/static/css/main.6a357f77.css.map",
+    "main.bc7e109b.js.map": "/socialchef-clone-homepage/static/js/main.bc7e109b.js.map",
+    "787.28aa5760.chunk.js.map": "/socialchef-clone-homepage/static/js/787.28aa5760.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a357f77.css",
+    "static/js/main.bc7e109b.js"
+  ]
+}
